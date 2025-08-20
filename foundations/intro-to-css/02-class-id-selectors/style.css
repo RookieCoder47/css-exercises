@@ -1,12 +1,12 @@
 /* css file*/
 
 .odd {
-    background-color: pink;
+    background-color: rgb(238, 138, 155);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second {
-    color: blue;
+    color: rgb(4, 4, 245);
     font-size: 36px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 #fourth {
-    background-color: lightgreen;
+    background-color: rgb(136, 221, 136);
     font-size: 24px;
     font-weight: bold;
 }
